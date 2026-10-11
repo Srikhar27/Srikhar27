@@ -33,7 +33,7 @@ I'm passionate about building practical solutions using **Artificial Intelligenc
 - MySQL, MongoDB
 
 **Tools & Platforms**
-- Git, GitHub, VS Code, Jupyter Notebook
+- Git, GitHub.
 - OpenCV, EasyOCR
 
 **Web Development**
