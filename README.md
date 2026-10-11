@@ -118,18 +118,6 @@ Intermediate, MPC
 - Multimodal AI: Text, Images, and Documents
 - LLM Deployment, Inference Optimization, and Quantization
 - Model Deployment, MLOps, and Monitoring
-
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/manchala-srikhar-55836628a/)
